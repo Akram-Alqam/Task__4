@@ -1,0 +1,4 @@
+overall output:
+Enter a fruit name: input => Akram
+output:
+Sorry, this fruit is not available.
